@@ -1,6 +1,8 @@
 # Image-Captioning-with-Inception-LSTM
 
-An image captioning model that uses flickr8k dataset with Deep learning and NLP
+An image captioning model that uses flickr8k dataset with Deep learning and NLP.
+
+The web interface is generated using our pretrained model using Gradio:  https://gradio.app/ 
 
 Reference : -> https://arxiv.org/abs/1502.03044
 
