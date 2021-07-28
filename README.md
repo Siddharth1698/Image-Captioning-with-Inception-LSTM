@@ -19,6 +19,10 @@ Run webcam_test.ipynb to test webcam and test.ipynb to upload caption and test.
 
 Working:
 
+Upload any image:
+
 ![Gradio Running Image Captioning Code](gradio.png)
+
+Use Webcam:
 
 ![Gradio Running Image Captioning Code](webcam.png)
