@@ -15,3 +15,9 @@ flikr8k/captions.txt
 Steps to run:
 
 Run webcam_test.ipynb to test webcam and test.ipynb to upload caption and test.
+
+
+Working:
+
+![Gradio Running Image Captioning Code](gradio.png)
+
