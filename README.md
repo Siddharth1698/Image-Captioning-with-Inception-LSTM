@@ -21,3 +21,4 @@ Working:
 
 ![Gradio Running Image Captioning Code](gradio.png)
 
+![Gradio Running Image Captioning Code](webcam.png)
