@@ -6,7 +6,7 @@ The web interface is generated using our pretrained model using Gradio:  https:/
 
 Reference : -> https://arxiv.org/abs/1502.03044
 
-This repo containes many models. Download the models,weights and files from: https://drive.google.com/drive/folders/1ThbT5oBHeZ83TyUisJUe9KRyfW2q9aJj
+Download the models,weights and files from: https://drive.google.com/drive/folders/1ThbT5oBHeZ83TyUisJUe9KRyfW2q9aJj
 
 Download the dataset used: https://www.kaggle.com/dataset/e1cd22253a9b23b073794872bf565648ddbe4f17e7fa9e74766ad3707141adeb Then set images folder, captions.txt inside a folder Flickr8k.
 
